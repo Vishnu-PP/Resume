@@ -1,0 +1,13 @@
+.col{
+    border: solid 1px black;
+}
+h6{
+    font-weight: bold;
+}
+body{
+    background-image: url(./images/279547.jpg);
+    background-size: cover;
+}
+.img-thumbnail{
+    padding: 0px;
+}
